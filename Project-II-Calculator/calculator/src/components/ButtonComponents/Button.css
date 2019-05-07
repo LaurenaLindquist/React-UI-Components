@@ -1,0 +1,17 @@
+.calc-container {
+    height: 100px;
+    display: flex;
+}
+
+.number-button {
+    width: 100px;
+    font-size: 1.5rem;
+}
+
+.big-button {
+    width: 300px;
+    font-size: 1.5rem;
+
+
+
+}
